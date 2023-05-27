@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+src/fsga.py
+src/FeatureSelectionUsingGA.egg-info/PKG-INFO
+src/FeatureSelectionUsingGA.egg-info/SOURCES.txt
+src/FeatureSelectionUsingGA.egg-info/dependency_links.txt
+src/FeatureSelectionUsingGA.egg-info/requires.txt
+src/FeatureSelectionUsingGA.egg-info/top_level.txt
